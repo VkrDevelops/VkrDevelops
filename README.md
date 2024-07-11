@@ -51,9 +51,9 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FH9395&show_icons=true&locale=en&layout=compact" alt="FH9395" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FH9395&show_icons=true&locale=en" alt="FH9395" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FH9395&" alt="FH9395" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VkrDevelops&show_icons=true&locale=en&layout=compact" alt="FH9395" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VkrDevelops&show_icons=true&locale=en" alt="FH9395" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VkrDevelops&" alt="VkrDevelops" /></p>
 
 ### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
