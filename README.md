@@ -1,7 +1,7 @@
 <h1>
   Hi Waqar here 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <img src="https://komarev.com/ghpvc/?username=FH9395&style=flat-square&color=blue" align="right" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=VkrDevelops&style=flat-square&color=blue" align="right" alt=""/>
 </h1>
 
 <div id="header" align="center">
