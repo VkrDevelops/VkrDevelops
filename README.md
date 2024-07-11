@@ -13,15 +13,15 @@
 ### :man_technologist: About Me :
 I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and developing Android apps in both JAVA and Kotlin.
+- :telescope: I’m working as a Software Engineer and developing Android apps in both JAVA ,Kotlin and JetPack.
 - :zap: I’m currently working on native Android Development with Kotlin, MVVM, Maps, AdMobs, Firebase, FCM, Retrofit, Livedata, Coroutines. And some part time projects on Fiverr and Upwork...
-- :mailbox:How to reach me: mailto:saqlainfahad777@gmail.com
+- :mailbox:How to reach me: mailto:waqary268@gmail.com
 <div id="badges">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fahad-hussain-7a90a7205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-hussain-7a90a7205" height="30" width="40" /></a>
-<a href="https://instagram.com/fahad_hussain9395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahad_hussain9395" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vkrdevelops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-hussain-7a90a7205" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammad_waqar_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahad_hussain9395" height="30" width="40" /></a>
 </p>
 
 
