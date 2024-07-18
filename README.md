@@ -1,7 +1,7 @@
 <h1>
-  Hi Waqar here 👋
+  Hi Waqar here
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <img src="https://komarev.com/ghpvc/?username=VkrDevelops&style=flat-square&color=blue" align="right" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=MohammadWaqarYounas&style=flat-square&color=blue" align="right" alt=""/>
 </h1>
 
 <div id="header" align="center">
@@ -13,15 +13,16 @@
 ### :man_technologist: About Me :
 I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and developing Android apps in both JAVA ,Kotlin and JetPack Compose.
+- :telescope: I’m working as a Software Engineer and developing Android apps in both JAVA and Kotlin.
 - :zap: I’m currently working on native Android Development with Kotlin, MVVM, Maps, AdMobs, Firebase, FCM, Retrofit, Livedata, Coroutines. And some part time projects on Fiverr and Upwork...
-- :mailbox:How to reach me: mailto:waqary268@gmail.com
+- :mailbox:How to reach me: waqary268@gmail.com
 <div id="badges">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vkrdevelops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-hussain-7a90a7205" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammad_waqar_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahad_hussain9395" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-waqar-younas-525973197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-waqar-younas-525973197" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammad_waqar_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_waqar_99" height="30" width="40" /></a>
+<a href="https://twitter.com/waqarra26557320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waqarra26557320" height="30" width="40" /></a>
 </p>
 
 
